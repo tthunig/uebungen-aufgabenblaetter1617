@@ -1,4 +1,4 @@
-package uebung4;
+package uebungen.uebung4;
 
 class Farm {
 

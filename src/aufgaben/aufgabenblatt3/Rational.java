@@ -1,6 +1,6 @@
-package aufgabenblatt3;
+package aufgaben.aufgabenblatt3;
 
-class ImmutableRational {
+class Rational {
 
 	// TODO fuelle diese Klasse mit den Methoden von Aufgabenblatt 3
 	
