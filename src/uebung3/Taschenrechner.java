@@ -1,4 +1,4 @@
-package uebungen.uebung3;
+package uebung3;
 
 public class Taschenrechner {
 	

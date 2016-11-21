@@ -1,4 +1,4 @@
-package uebungen.uebung1;
+package uebung1.helloworld;
 
 public class HelloWorld {
   
